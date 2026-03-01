@@ -2,7 +2,7 @@
 layout: projeto 
 title: Projetos
 tagline: Clique em um card para saber mais e ver o código
-link: https://github.com/MateusTeus
+link: https://github.com/MateusCruzTech
 image: /assets/image/image.png 
 ---
 <link rel="stylesheet" href="{{ '/assets/css/project.css' | relative_url }}"> 

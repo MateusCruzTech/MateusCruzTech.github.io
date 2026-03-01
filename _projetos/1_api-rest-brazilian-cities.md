@@ -2,7 +2,7 @@
 layout: projeto 
 title: API REST de Cidades Brasileiras
 tagline: API RESTful em Java/Spring Boot para consulta e análise de dados de cidades brasileiras.
-link: https://github.com/MateusTeus/API_Rest_Brazilian_Cities 
+link: https://github.com/MateusCruzTech/API_Rest_Brazilian_Cities 
 image: /assets/image/image.png 
 ---
 <link rel="stylesheet" href="{{ '/assets/css/project.css' | relative_url }}"> 
@@ -28,7 +28,7 @@ A API carrega e armazena mais de 5.500 registros de cidades (incluindo Populaç�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Categoria | Tecnologia | Versão |
 | :--- | :--- |:-------|
@@ -38,7 +38,7 @@ A API carrega e armazena mais de 5.500 registros de cidades (incluindo Populaç�
 | **Facilitador** | Lombok | Latest |
 | **Documentação** | Springdoc OpenAPI (Swagger UI) | 
 
-## 📐 Estrutura em Camadas
+## Estrutura em Camadas
 
 A aplicação é estruturada para escalabilidade e manutenibilidade:
 
@@ -46,7 +46,7 @@ A aplicação é estruturada para escalabilidade e manutenibilidade:
 * **`CityService.java` (Service):** Contém a lógica de *parsing* e carregamento de dados. O método `@PostConstruct` garante que os dados sejam carregados **apenas uma vez** na inicialização da aplicação.
 * **`CityController.java` (Controller):** Expõe os endpoints REST e usa Injeção de Dependência (`@Autowired`) para acessar o Service.
 
-## ⚙️ Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 ### Pré-requisitos
 
@@ -57,7 +57,7 @@ A aplicação é estruturada para escalabilidade e manutenibilidade:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/MateusTeus/API_Rest_Brazilian_Cities](https://github.com/MateusTeus/API_Rest_Brazilian_Cities)
+    git clone [https://github.com/MateusCruzTech/API_Rest_Brazilian_Cities](https://github.com/MateusCruzTech/API_Rest_Brazilian_Cities)
     cd API_Rest_Brazilian_Cities
     ```
 
@@ -71,12 +71,12 @@ A aplicação é estruturada para escalabilidade e manutenibilidade:
     ```
     *A aplicação será iniciada na porta 8080*
 
-## 📖 Documentação e Testes (Swagger UI)
+## Documentação e Testes (Swagger UI)
 
 Após a aplicação ser iniciada, a documentação interativa da API está disponível no seu navegador:
 
 ### **URL do Swagger UI:**
-➡️ **`http://localhost:8080/swagger-ui.html`**
+ **`http://localhost:8080/swagger-ui.html`**
 
 ### Endpoints Principais
 

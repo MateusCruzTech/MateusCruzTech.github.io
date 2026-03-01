@@ -16,7 +16,7 @@ permalink: /
 
 #### Em breve, estarei postando conteúdos sobre a vasta área da tecnologia, que ficarão disponíveis na aba “Artigos”.
 
-#### Visite meu [LinkedIn](https://www.linkedin.com/in/mateus-henrique-172599236/) e meu [Github](https://github.com/MateusTeus), lá você encontrará outros projetos que ainda não publiquei na seção “Projetos”.
+#### Visite meu [LinkedIn](https://www.linkedin.com/in/mateus-henrique-172599236/) e meu [Github](https://github.com/MateusCruzTech), lá você encontrará outros projetos que ainda não publiquei na seção “Projetos”.
 
 #### Email: mateusteccruz@gmail.com
 
